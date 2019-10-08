@@ -1,2 +1,8 @@
 # Sistema de login
-Sistema de autenticação feito com PHP e Mysql
+Sistema de autenticação por sessão
+# Tecnologias utilizadas
+● PHP<br>
+● Mysql
+# Requisitos
+● Instalar PHP
+● Configurar Mysql
