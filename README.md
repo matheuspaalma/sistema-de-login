@@ -2,7 +2,7 @@
 Sistema de autenticação por sessão
 # Tecnologias utilizadas
 ● PHP<br>
-● Mysql
+● MySQL
 # Requisitos
-● Instalar PHP
-● Configurar Mysql
+● Instalar PHP<br>
+● Configurar MySQL
